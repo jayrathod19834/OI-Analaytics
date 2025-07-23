@@ -19,7 +19,7 @@
     "jwt-decode": "^3.1.2",
     "moment": "2.29.1",
     "mousetrap": "^1.6.5",
-    "node-sass": "^6.0.0",
+    "node-sass": "^9.0.0",
     "prop-types": "^15.7.2",
     "rc-slider": "^9.7.2",
     "rc-switch": "^3.2.2",
